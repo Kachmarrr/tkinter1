@@ -1,4 +1,4 @@
-from tkinter *
+from tinker import *
 
 tk = Tk()
 canvas = Canvas(tk, width=400, height=400)
